@@ -31,4 +31,4 @@ Rail Fence Cipher
 
 ROT13 (1-26)
 
-At-bash Ciphe
+At-bash Cipher
